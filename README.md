@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EmilSunden
+- 👋 Hey! My name is Emil Sundén. I'm currently studying full-time to become a fullstack webdeveloper
 - 👀 I’m interested in ...
-- 🌱 I’m currently studying to become a fullstack Developer
 - 💞️ I’m always looking to collaborate 
 - 📫 You can reach me at any time at emilsunjobb@gmail.com
 
