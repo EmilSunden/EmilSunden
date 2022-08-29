@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently studying to become a fullstack Developer
 - 💞️ I’m always looking to collaborate 
-- 📫 How to reach me @ emilsunjobb@gmail.com
+- 📫 You can reach me at any time at emilsunjobb@gmail.com
 
 <!---
 EmilSunden/EmilSunden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
