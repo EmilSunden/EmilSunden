@@ -1,7 +1,31 @@
-- 👋 Hey! My name is Emil Sundén. I'm currently studying full-time to become a fullstack webdeveloper
-- 👀 My interests lie in backend development and integration. 
-- 💞️ I’m always looking to learn new things and the best way to learn is to do and I'm always looking to collab on projects.
-- 📫 You can reach me at any time at emilsunjobb@gmail.com
+Hi there! 👋
+My name is Emil, and I'm a 23-year-old fullstack web developer. I'm currently studying web development and I'm passionate about building awesome things on the web!
+
+Projects
+I've worked on several web development projects, including:
+
+Twitter clone: a static webpage that looks like Twitter, but without any of the functionality
+Chatbot: a simple chatbot using vanilla JavaScript for the frontend and Node.js with Express and OpenAI for the backend
+Personal portfolio: a personal portfolio website using React for the frontend and Sanity CMS for the backend
+Skills
+I'm proficient in the following technologies:
+
+Vanilla JavaScript, HTML, and CSS
+React
+Node.js and Express
+Git
+Hobbies
+When I'm not programming, I enjoy:
+
+Gaming: I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
+Going to the gym: Staying fit and healthy is important to me, and I love going to the gym to keep myself in shape.
+Contact
+You can find me on GitHub, Twitter, and LinkedIn.
+
+📫 You can reach me at any time at emilsunjobb@gmail.com
+
+Thanks for stopping by!
+
 
 <!---
 EmilSunden/EmilSunden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
