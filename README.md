@@ -7,6 +7,7 @@ I've worked on several web development projects, including:
 Twitter clone: a static webpage that looks like Twitter, but without any of the functionality
 Chatbot: a simple chatbot using vanilla JavaScript for the frontend and Node.js with Express and OpenAI for the backend
 Personal portfolio: a personal portfolio website using React for the frontend and Sanity CMS for the backend
+
 Skills
 I'm proficient in the following technologies:
 
@@ -14,10 +15,13 @@ Vanilla JavaScript, HTML, and CSS
 React
 Node.js and Express
 Git
+
+
 Hobbies
 When I'm not programming, I enjoy:
 
-Gaming: I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
+Gaming
+I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
 Going to the gym: Staying fit and healthy is important to me, and I love going to the gym to keep myself in shape.
 Contact
 You can find me on GitHub, Twitter, and LinkedIn.
