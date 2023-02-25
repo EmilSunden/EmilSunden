@@ -1,6 +1,6 @@
 - 👋 Hey! My name is Emil Sundén. I'm currently studying full-time to become a fullstack webdeveloper
-- 👀 I’m interested in ...
-- 💞️ I’m always looking to collaborate 
+- 👀 My interests lie in backend development and integration. 
+- 💞️ I’m always looking to learn new things and the best way to learn is to do and I'm always looking to collab on projects.
 - 📫 You can reach me at any time at emilsunjobb@gmail.com
 
 <!---
