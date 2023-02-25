@@ -11,11 +11,14 @@ Personal portfolio: a personal portfolio website using React for the frontend an
 Skills
 I'm proficient in the following technologies:
 
+Frontend: 
 Vanilla JavaScript, HTML, and CSS
 React
-Node.js and Express
-Git
 
+💗 Backend 
+Node.js and Express
+MYSQL
+Git
 
 Hobbies
 When I'm not programming, I enjoy:
