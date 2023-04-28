@@ -17,7 +17,7 @@ React
 
 💗 Backend 
 Node.js and Express
-MYSQL
+SQL / NOSQL
 Git
 
 Hobbies
