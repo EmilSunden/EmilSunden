@@ -27,7 +27,7 @@ Gaming
 I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
 Going to the gym: Staying fit and healthy is important to me, and I love going to the gym to keep myself in shape.
 
-Contact
+Contact ## 
 You can find me on 
 GitHub
 Discord 
