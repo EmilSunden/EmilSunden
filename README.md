@@ -1,5 +1,5 @@
 Hi there! 👋
-My name is Emil, and I'm a 23-year-old fullstack web developer. I'm currently studying web development and I'm passionate about building awesome things on the web!
+My name is Emil, and I'm a 24-year-old fullstack web developer. I'm passionate about building awesome things on the web!
 
 Projects
 I've worked on several web development projects, including:
