@@ -2,7 +2,7 @@ Hi there! 👋
 My name is Emil, and I'm a 24-year-old fullstack web developer. I'm passionate about building awesome things on the web!
 
 # Projects
-`````
+
 Twitter clone
 a static webpage that looks like Twitter, but without any of the functionality
 
@@ -11,8 +11,8 @@ a simple chatbot using vanilla JavaScript for the frontend and Node.js with Expr
 
 Personal portfolio
 a personal portfolio website using React for the frontend and Sanity CMS for the backend
-`````
-## Skills
+
+# Skills
 `````
 I'm proficient in the following technologies:
 
