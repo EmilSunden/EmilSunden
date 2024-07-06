@@ -52,7 +52,12 @@ Currently learning *Preact*, *HTMX*
 When I'm not programming, I enjoy\
 **Gaming**\
 I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
-Going to the gym: Staying fit and healthy is important to me, and I love going to the gym to keep myself in shape.
+
+**Exercising**\
+Staying fit and healthy is important, and I love taking long walks in nature.
+
+**Listening to music**\
+Who doesn't love listening to music
 </details>
 
 <details>
