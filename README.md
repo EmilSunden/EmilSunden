@@ -33,21 +33,25 @@ I'm proficient in the following technologies:
 
 <details>
 <summary><h1>Hobbies</h1></summary>
-When I'm not programming, I enjoy:
-_Gaming\
+
+When I'm not programming, I enjoy\
+**Gaming**\
 I've been gaming for as long as I can remember, and I always find it a fun and relaxing way to unwind.
 Going to the gym: Staying fit and healthy is important to me, and I love going to the gym to keep myself in shape.
 </details>
 
-Contact ## 
-You can find me on 
-GitHub
-Discord 
-LinkedIn
+<details>
+<summary><h1>Contact</h1></summary>
+ 
+You can reach me at
+- [**Discord**](https://discord.com/users/173458886706200586)
+- [GitHub](https://github.com/EmilSunden)
+- [LinkedIn](https://www.linkedin.com/in/emil-sund%C3%A9n-4b6b26179/)
+</details>
 
-📫 You can reach me at any time at emilsunjobb@gmail.com
+📫 **You can reach me at any time at _emilsunjobb@gmail.com_**
 
-Thanks for stopping by!
+**Thanks for stopping by!**
 
 
 <!---
