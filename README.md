@@ -17,17 +17,27 @@ a personal portfolio website using React for the frontend and Sanity CMS for the
 <details>
 <summary><h1>Skills</h1></summary>
 
-I'm proficient in the following technologies:
+# Languages
+- Javascript
+- C#
 
-## Frontend 
-- Vanilla JavaScript
+
+### Frontend 
 - HTML
 - CSS
+- Tailwindcss
+- SCSS
 - React
 
-## 💗 Backend 
-- Node.js and Express
+### 💗 Backend & DB's
+- Node.js
 - MYSQL
+- MongoDB
+- SSMS
+### Backend Technologies
+- Express
+
+### Version Control
 - Git
 </details>
 
