@@ -1,5 +1,5 @@
 Hi there! 👋
-My name is Emil, and I'm a 24-year-old fullstack web developer. I'm passionate about building awesome things on the web!
+My name is Emil, I'm a 24-year-old fullstack web developer. I'm passionate about building awesome things on the web!
 
 <details>
 <summary><h1>Projects</h1></summary>
@@ -19,7 +19,9 @@ a personal portfolio website using React for the frontend and Sanity CMS for the
 
 # Languages
 - Javascript
-- C#
+- C# 
+
+Currently learning *GO*
 
 
 ### Frontend 
@@ -28,6 +30,8 @@ a personal portfolio website using React for the frontend and Sanity CMS for the
 - Tailwindcss
 - SCSS
 - React
+
+Currently learning *Preact*, *HTMX*
 
 ### 💗 Backend & DB's
 - Node.js
@@ -39,6 +43,7 @@ a personal portfolio website using React for the frontend and Sanity CMS for the
 
 ### Version Control
 - Git
+
 </details>
 
 <details>
