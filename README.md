@@ -14,21 +14,23 @@ a simple chatbot using vanilla JavaScript for the frontend and Node.js with Expr
 a personal portfolio website using React for the frontend and Sanity CMS for the backend
 </details>
 
-# Skills
-`````
+<details>
+<summary><h1>Skills</h1></summary>
+
 I'm proficient in the following technologies:
 
-Frontend: 
+## Frontend 
 - Vanilla JavaScript
 - HTML
 - CSS
 - React
 
-💗 Backend 
+## 💗 Backend 
 - Node.js and Express
 - MYSQL
 - Git
-`````
+</details>
+
 # Hobbies
 When I'm not programming, I enjoy:
 
