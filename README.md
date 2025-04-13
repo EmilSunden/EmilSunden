@@ -19,10 +19,11 @@ a personal portfolio website using React for the frontend and Sanity CMS for the
 
 # Languages
 - Javascript
-- C# 
+- C#
+- Golang
+- A tiny bit of python
 
-Currently learning *GO*
-
+Always learning.
 
 ### Frontend 
 - HTML
@@ -33,16 +34,24 @@ Currently learning *GO*
 
 Currently learning *Preact*, *HTMX*
 
-### 💗 Backend & DB's
-- Node.js
-- MYSQL
+### RDMBS
+- SQL
+
+### DMBS
 - MongoDB
+
+### 💗 Backend
+- Node.js
 - SSMS
+- 
 ### Backend Technologies
 - Express
 
 ### Version Control
 - Git
+
+### Data Visualization & Monitoring
+- Grafana
 
 </details>
 
